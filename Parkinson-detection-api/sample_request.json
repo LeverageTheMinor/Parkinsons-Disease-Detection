@@ -1,0 +1,15 @@
+{
+  "MDVP_Fo_Hz": 119.992,
+  "MDVP_Fhi_Hz": 157.302,
+  "MDVP_Flo_Hz": 74.997,
+  "MDVP_Jitter_percent": 0.00784,
+  "MDVP_Jitter_Abs": 0.00007,
+  "MDVP_Shimmer": 0.04374,
+  "Shimmer_APQ11": 0.02971,
+  "NHR": 0.02211,
+  "HNR": 21.033,
+  "RPDE": 0.414783,
+  "DFA": 0.815285,
+  "spread1": -4.813031,
+  "spread2": 0.266482
+}
